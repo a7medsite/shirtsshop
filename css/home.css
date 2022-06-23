@@ -72,7 +72,7 @@ ul {
   }
 
   .details-sec{
-    height: 200px;
+    height: 250px;
     width: 100%;
     background: #3A3845;
     display: flex;
@@ -194,7 +194,6 @@ margin-right: 24px;
   flex-direction: row;
   font-size: 14px;
   opacity: 0.8;
-  padding: 0 16px ;
   }
 
   .title img {
